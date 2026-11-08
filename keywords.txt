@@ -1,0 +1,7 @@
+Braille	KEYWORD1
+encode	KEYWORD2
+decode	KEYWORD2
+dot	KEYWORD2
+textToCells	KEYWORD2
+capitalSign	KEYWORD2
+numberSign	KEYWORD2
